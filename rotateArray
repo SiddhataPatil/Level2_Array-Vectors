@@ -23,7 +23,7 @@ using namespace std;
 class Solution
 {
 public: 
-  vector<int> rotateArray(vector<int>,int);
+  vector<int> rotateArray(vector<int>&a,int);
 }obj;
 
 vector<int> Solution::rotateArray(vector<int> &A, int B) {
