@@ -1,3 +1,12 @@
+/*
+ ==============================================================================================================================
+ Name        : main.cpp
+ Author      : Siddhata Patil
+ Copyright   : Copyright ©  Siddhata Patil. Sourcecode rights reserved.
+ Question    : Dry run and find the output
+ ==============================================================================================================================
+ */
+ 
 #include <iostream>
 #include <vector>
 
